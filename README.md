@@ -24,6 +24,7 @@ Contribute: If you have suggestions or improvements, feel free to fork the repos
 Resources
 PostgreSQL Official Documentation
 pgAdmin Documentation
+SoftUni PostgreSQL May 2024
 Codecademy - Learn SQL
 Coursera - PostgreSQL for Everybody
 Udemy - PostgreSQL Courses
