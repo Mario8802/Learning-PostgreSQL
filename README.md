@@ -51,5 +51,3 @@ Equip yourself with the tools for success:
 Got questions or suggestions? Don't hesitate to reach out! 📩 Let's connect and learn together!
 
 ---
-
-Feel free to let me know if you'd like any further adjustments!
