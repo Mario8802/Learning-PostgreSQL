@@ -1,5 +1,3 @@
----
-
 # Learning PostgreSQL
 
 Welcome to my PostgreSQL learning repository! 🚀 This is where I document my journey of mastering PostgreSQL, a robust open-source relational database management system. Join me as I track my progress, share insights, and provide examples of what I've learned.
