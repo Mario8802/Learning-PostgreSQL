@@ -47,5 +47,3 @@ Equip yourself with the tools for success:
 ## Contact
 
 Got questions or suggestions? Don't hesitate to reach out! 📩 Let's connect and learn together!
-
----
