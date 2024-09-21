@@ -10,7 +10,6 @@ CREATE TABLE accounts (
     ip VARCHAR(30) NOT NULL
 );
 
--- Create addresses table
 CREATE TABLE addresses (
     id SERIAL PRIMARY KEY,
     street VARCHAR(30) NOT NULL,
