@@ -11,4 +11,4 @@ BEGIN
     
     RETURN photos_count;
 END;
-$$ LANGUAGE plpgsql;
+$$ LANGUAGE plpgsql; 
