@@ -3,7 +3,7 @@
 **PostgreSQL** is a powerful, open-source object-relational database management system (ORDBMS) that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads. It was originally developed at the University of California, Berkeley, and has evolved significantly since its inception. Key features of PostgreSQL include:
 
 - **ACID Compliance**: Ensures reliable transactions (Atomicity, Consistency, Isolation, Durability).
-- **Support for SQL Standards**: Adheres to the SQL standard while also offering advanced features.
+- **Support for SQL Standards**: Adheres to the SQL standard while also offering advanced features. 
 - **Extensibility**: Allows users to define their own data types, operators, and functions.
 - **Data Integrity**: Enforces data integrity with constraints like primary keys, foreign keys, and unique constraints.
 - **Concurrency**: Utilizes Multi-Version Concurrency Control (MVCC) to handle concurrent transactions.
