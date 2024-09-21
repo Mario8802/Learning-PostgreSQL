@@ -1,4 +1,4 @@
--- Create accounts table
+
 CREATE TABLE accounts (
     id SERIAL PRIMARY KEY,
     username VARCHAR(30) NOT NULL UNIQUE,
