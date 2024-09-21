@@ -19,7 +19,7 @@ CREATE TABLE addresses (
     FOREIGN KEY (account_id) REFERENCES accounts(id) ON DELETE CASCADE
 );
 
--- Create photos table
+
 CREATE TABLE photos (
     id SERIAL PRIMARY KEY,
     description TEXT,
