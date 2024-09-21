@@ -8,6 +8,6 @@ BEGIN
     WHERE a.id = addr.account_id
       AND addr.street = address_street
       AND addr.town = address_town
-      AND a.job_title NOT LIKE '(Remote) %';
+      AND a.job_title NOT LIKE '(Remote) %'; 
 END;
 $$;
