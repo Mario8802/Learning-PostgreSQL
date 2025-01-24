@@ -4,5 +4,5 @@ SELECT
 FROM
 	projects
 WHERE
-	name LIKE 'MOUNT%';
+	name LIKE 'MOUNT%'; 
 	
