@@ -12,7 +12,7 @@ Dive into the world of PostgreSQL with me! This repository is packed with a trea
 - **Database Design:** Examples of database schemas and design principles.
 - **Performance Tuning:** Notes and scripts for optimizing PostgreSQL performance.
 - **Extensions:** An exploration of PostgreSQL extensions like PostGIS for spatial data.
-- **Resources:** Links to tutorials, documentation, and other valuable resources.
+- **Resources:** Links to tutorials, documentation, and other valuable resources. 
 
 ## Learning Goals
 
