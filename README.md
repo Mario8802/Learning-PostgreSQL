@@ -7,7 +7,7 @@ Welcome to my PostgreSQL learning repository! 🚀 This is where I document my j
 Dive into the world of PostgreSQL with me! This repository is packed with a treasure trove of resources, scripts, and examples related to PostgreSQL. As I explore its various facets, I'll keep this repository updated with fresh content and learning materials.
 
 ### Contents
-
+ 
 - **SQL Scripts:** A collection of SQL scripts showcasing different queries and operations.
 - **Database Design:** Examples of database schemas and design principles.
 - **Performance Tuning:** Notes and scripts for optimizing PostgreSQL performance.
